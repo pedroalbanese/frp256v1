@@ -1,5 +1,5 @@
 // Parameters for the FRP256v1 Elliptic curve
-package main
+package frp256v1
 
 import (
 	"crypto/ecdsa"
